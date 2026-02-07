@@ -6,45 +6,89 @@ on:
       - 'icon/**'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-json:
     runs-on: ubuntu-latest
-
+    
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
 
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
-        node-version: '16'
+        node-version: '20'
 
-    - name: Install dependencies
-      run: npm install fs path
-
-    - name: Generate JSON file
+    - name: Generate JSON file (Smart Context)
+      # [架构关键] 将 GitHub 的上下文变量注入到 Node.js 的环境变量中
+      env:
+        # 自动识别仓库，例如 "NewUser/NewRepo"
+        CURRENT_REPO: ${{ github.repository }} 
+        # 自动识别分支，例如 "main", "dev", "v1"
+        CURRENT_BRANCH: ${{ github.ref_name }}
       run: |
         node << 'EOF'
         const fs = require('fs');
         const path = require('path');
-        const iconDir = path.join(__dirname, '../../icon');
-        const files = fs.readdirSync(iconDir).filter(file => file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.jpeg') || file.endsWith('.svg'));
 
-        const iconData = files.map(file => {
-          return {
+        // [智能识别] 从环境变量中读取当前仓库信息，不再硬编码
+        const repo = process.env.CURRENT_REPO;
+        const branch = process.env.CURRENT_BRANCH;
+        
+        if (!repo || !branch) {
+          console.error("Error: Could not detect repository context.");
+          process.exit(1);
+        }
+
+        const rootDir = process.cwd();
+        const iconDir = path.join(rootDir, 'icon');
+        const jsonPath = path.join(rootDir, 'icon.json');
+
+        console.log(`[Info] Context Detected -> Repo: ${repo}, Branch: ${branch}`);
+
+        try {
+          if (!fs.existsSync(iconDir)) {
+             // 如果新仓库没有 icon 目录，优雅退出而不是报错
+             console.log("No icon directory found. creating empty json.");
+             fs.writeFileSync(jsonPath, "[]");
+             process.exit(0);
+          }
+
+          const validExtensions = new Set(['.png', '.jpg', '.jpeg', '.svg', '.webp']);
+          
+          const files = fs.readdirSync(iconDir)
+            .filter(file => validExtensions.has(path.extname(file).toLowerCase()))
+            .sort();
+
+          const iconData = files.map(file => ({
             name: file,
-            url: `https://raw.githubusercontent.com/Keviin560/LOON/main/icon/${file}`
-          };
-        });
+            // [核心重构] 动态构建 URL，无论仓库怎么变，这里永远正确
+            url: `https://raw.githubusercontent.com/${repo}/${branch}/icon/${file}`
+          }));
 
-        const jsonPath = path.join(__dirname, '../../icon.json');
-        fs.writeFileSync(jsonPath, JSON.stringify(iconData, null, 2));
+          fs.writeFileSync(jsonPath, JSON.stringify(iconData, null, 2));
+          console.log(`[Success] Generated links for ${repo} on ${branch}`);
+        
+        } catch (error) {
+          console.error('[Error]', error.message);
+          process.exit(1);
+        }
         EOF
 
-    - name: Commit JSON file
+    - name: Commit and Push changes
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add icon.json
-        git commit -m "Update icon JSON"
-        git push
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        if [[ -n $(git status --porcelain icon.json) ]]; then
+          git add icon.json
+          git commit -m "chore(auto): update icon.json in ${GITHUB_REPOSITORY} [skip ci]"
+          git push
+        else
+          echo "No changes detected."
+        fi
