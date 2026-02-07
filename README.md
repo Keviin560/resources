@@ -2,14 +2,14 @@
 
 > ⚠️ Note: This is a personal asset repository for my configuration. Feel free to fork, but upstream changes may occur without notice.
 
-自用图标资源库，图标资源均为1024*1024尺寸！
+自用图标资源库，图标资源均为 `1024*1024` 尺寸！
 所有图标资源存储在 `icon/` 目录下，并通过 GitHub Actions 自动维护索引文件。
 
 ## ⚡ 核心特性 (Features)
 
 * 全自动索引 (Auto-Indexing):
     只需上传图片到 `icon/` 目录，`icon.json` 会自动更新，无需手动编辑。
-    *(Simply push images to `icon/`, and `icon.json` updates automatically.)*
+  *(Simply push images to `icon/`, and `icon.json` updates automatically.)*
 
 * 动态感知 (Context-Aware):
     脚本自动识别当前的仓库名（如 `resources`）和分支。
