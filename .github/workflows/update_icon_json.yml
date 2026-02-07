@@ -24,19 +24,15 @@ jobs:
       with:
         node-version: '20'
 
-    - name: Generate JSON file (Smart Context)
-      # [架构关键] 将 GitHub 的上下文变量注入到 Node.js 的环境变量中
+    - name: Generate JSON file (Loon Compatible)
       env:
-        # 自动识别仓库，例如 "NewUser/NewRepo"
         CURRENT_REPO: ${{ github.repository }} 
-        # 自动识别分支，例如 "main", "dev", "v1"
         CURRENT_BRANCH: ${{ github.ref_name }}
       run: |
         node << 'EOF'
         const fs = require('fs');
         const path = require('path');
 
-        // [智能识别] 从环境变量中读取当前仓库信息，不再硬编码
         const repo = process.env.CURRENT_REPO;
         const branch = process.env.CURRENT_BRANCH;
         
@@ -49,13 +45,11 @@ jobs:
         const iconDir = path.join(rootDir, 'icon');
         const jsonPath = path.join(rootDir, 'icon.json');
 
-        console.log(`[Info] Context Detected -> Repo: ${repo}, Branch: ${branch}`);
+        console.log(`[Info] Scanning: ${iconDir}`);
 
         try {
           if (!fs.existsSync(iconDir)) {
-             // 如果新仓库没有 icon 目录，优雅退出而不是报错
-             console.log("No icon directory found. creating empty json.");
-             fs.writeFileSync(jsonPath, "[]");
+             console.log("No icon directory found.");
              process.exit(0);
           }
 
@@ -65,14 +59,21 @@ jobs:
             .filter(file => validExtensions.has(path.extname(file).toLowerCase()))
             .sort();
 
-          const iconData = files.map(file => ({
-            name: file,
-            // [核心重构] 动态构建 URL，无论仓库怎么变，这里永远正确
+          // [核心修复 1] 构建 icons 数组，并移除文件后缀
+          const iconsList = files.map(file => ({
+            name: path.parse(file).name, // 移除 .png, 变成纯文件名 "App"
             url: `https://raw.githubusercontent.com/${repo}/${branch}/icon/${file}`
           }));
 
-          fs.writeFileSync(jsonPath, JSON.stringify(iconData, null, 2));
-          console.log(`[Success] Generated links for ${repo} on ${branch}`);
+          // [核心修复 2] 构建符合 Loon 标准的根对象结构
+          const finalOutput = {
+            name: "自用图标资源库", // 集合显示名称
+            description: `Auto-updated on ${new Date().toISOString().split('T')[0]}`,
+            icons: iconsList
+          };
+
+          fs.writeFileSync(jsonPath, JSON.stringify(finalOutput, null, 2));
+          console.log(`[Success] Generated Loon-compatible JSON with ${iconsList.length} icons.`);
         
         } catch (error) {
           console.error('[Error]', error.message);
@@ -87,7 +88,7 @@ jobs:
         
         if [[ -n $(git status --porcelain icon.json) ]]; then
           git add icon.json
-          git commit -m "chore(auto): update icon.json in ${GITHUB_REPOSITORY} [skip ci]"
+          git commit -m "chore(auto): update icon.json format for Loon [skip ci]"
           git push
         else
           echo "No changes detected."
