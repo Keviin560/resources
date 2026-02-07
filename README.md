@@ -2,7 +2,7 @@
 
 > ⚠️ Note: This is a personal asset repository for my configuration. Feel free to fork, but upstream changes may occur without notice.
 
-自用图标资源库。
+自用图标资源库，图标资源均为1024*1024尺寸！
 所有图标资源存储在 `icon/` 目录下，并通过 GitHub Actions 自动维护索引文件。
 
 ## ⚡ 核心特性 (Features)
