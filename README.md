@@ -20,7 +20,7 @@
 
 ## 🛠 使用方法
 
-1.  将图标文件（`.png`, `.jpg`, `.svg`）上传至 `icon/` 文件夹。
+1.  将图标文件（`.png`）上传至 `icon/` 文件夹。
 2.  等待 GitHub Actions 自动运行（约 15 秒）。
 3.  使用以下链接获取订阅列表：
     `https://raw.githubusercontent.com/<你的用户名>/resources/main/icon.json`
