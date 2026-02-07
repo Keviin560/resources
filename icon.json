@@ -1,978 +1,982 @@
-[
-  {
-    "name": "1.1.1.1.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/1.1.1.1.png"
-  },
-  {
-    "name": "115.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/115.png"
-  },
-  {
-    "name": "123 Cloud.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/123 Cloud.png"
-  },
-  {
-    "name": "12306.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/12306.png"
-  },
-  {
-    "name": "36Kr.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/36Kr.png"
-  },
-  {
-    "name": "AMap.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/AMap.png"
-  },
-  {
-    "name": "AUS.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/AUS.png"
-  },
-  {
-    "name": "Ad Blocker.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Ad Blocker.png"
-  },
-  {
-    "name": "AdGuard.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/AdGuard.png"
-  },
-  {
-    "name": "Adblock.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Adblock.png"
-  },
-  {
-    "name": "Africa.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Africa.png"
-  },
-  {
-    "name": "AirDroid.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/AirDroid.png"
-  },
-  {
-    "name": "Alipay.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Alipay.png"
-  },
-  {
-    "name": "Amazon Prime Video.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Amazon Prime Video.png"
-  },
-  {
-    "name": "Americas.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Americas.png"
-  },
-  {
-    "name": "App Store.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/App Store.png"
-  },
-  {
-    "name": "Apple Developer.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple Developer.png"
-  },
-  {
-    "name": "Apple Music.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple Music.png"
-  },
-  {
-    "name": "Apple Wallet.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple Wallet.png"
-  },
-  {
-    "name": "Apple-2.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple-2.png"
-  },
-  {
-    "name": "Apple-3.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple-3.png"
-  },
-  {
-    "name": "Apple.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple.png"
-  },
-  {
-    "name": "Asia.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Asia.png"
-  },
-  {
-    "name": "BD Map.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/BD Map.png"
-  },
-  {
-    "name": "BUS.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/BUS.png"
-  },
-  {
-    "name": "Baidu.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Baidu.png"
-  },
-  {
-    "name": "Baiduyunpan.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Baiduyunpan.png"
-  },
-  {
-    "name": "Baomihua.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Baomihua.png"
-  },
-  {
-    "name": "Bcut.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bcut.png"
-  },
-  {
-    "name": "BiliBili-2.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/BiliBili-2.png"
-  },
-  {
-    "name": "BiliBili.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/BiliBili.png"
-  },
-  {
-    "name": "Bing.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bing.png"
-  },
-  {
-    "name": "Bitcoin.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bitcoin.png"
-  },
-  {
-    "name": "Bitqiu.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bitqiu.png"
-  },
-  {
-    "name": "Bodian Music.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bodian Music.png"
-  },
-  {
-    "name": "Books-2.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Books-2.png"
-  },
-  {
-    "name": "Books.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Books.png"
-  },
-  {
-    "name": "Brave.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Brave.png"
-  },
-  {
-    "name": "Bus.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bus.png"
-  },
-  {
-    "name": "Bybit.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bybit.png"
-  },
-  {
-    "name": "CHN.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/CHN.png"
-  },
-  {
-    "name": "CaiXin.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/CaiXin.png"
-  },
-  {
-    "name": "Cainiao.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Cainiao.png"
-  },
-  {
-    "name": "Canva.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Canva.png"
-  },
-  {
-    "name": "CapCut.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/CapCut.png"
-  },
-  {
-    "name": "ChatGPT.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/ChatGPT.png"
-  },
-  {
-    "name": "Chatbot.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Chatbot.png"
-  },
-  {
-    "name": "Chrome.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Chrome.png"
-  },
-  {
-    "name": "Conflux.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Conflux.png"
-  },
-  {
-    "name": "Copilot.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Copilot.png"
-  },
-  {
-    "name": "Cotti Coffee.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Cotti Coffee.png"
-  },
-  {
-    "name": "Craft.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Craft.png"
-  },
-  {
-    "name": "DJI.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DJI.png"
-  },
-  {
-    "name": "DNS Inspector.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DNS Inspector.png"
-  },
-  {
-    "name": "DSLR Camera.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DSLR Camera.png"
-  },
-  {
-    "name": "DaZhong.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DaZhong.png"
-  },
-  {
-    "name": "DanNan.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DanNan.png"
-  },
-  {
-    "name": "DiDi.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DiDi.png"
-  },
-  {
-    "name": "DingDing.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DingDing.png"
-  },
-  {
-    "name": "Discord.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Discord.png"
-  },
-  {
-    "name": "Disney+.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Disney+.png"
-  },
-  {
-    "name": "Douban.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Douban.png"
-  },
-  {
-    "name": "Dropbox .png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Dropbox .png"
-  },
-  {
-    "name": "EU.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/EU.png"
-  },
-  {
-    "name": "Edge.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Edge.png"
-  },
-  {
-    "name": "Emby.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Emby.png"
-  },
-  {
-    "name": "Europe.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Europe.png"
-  },
-  {
-    "name": "Excel 2025.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Excel 2025.png"
-  },
-  {
-    "name": "Excel.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Excel.png"
-  },
-  {
-    "name": "Facebook.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Facebook.png"
-  },
-  {
-    "name": "Fanqie.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Fanqie.png"
-  },
-  {
-    "name": "Fengcao.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Fengcao.png"
-  },
-  {
-    "name": "Filebar.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Filebar.png"
-  },
-  {
-    "name": "Firefox.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Firefox.png"
-  },
-  {
-    "name": "FnOS.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/FnOS.png"
-  },
-  {
-    "name": "Game Controller.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Game Controller.png"
-  },
-  {
-    "name": "Gemini.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Gemini.png"
-  },
-  {
-    "name": "GitHub.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/GitHub.png"
-  },
-  {
-    "name": "Gmail.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Gmail.png"
-  },
-  {
-    "name": "Goodnotes.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Goodnotes.png"
-  },
-  {
-    "name": "Google Ads.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Ads.png"
-  },
-  {
-    "name": "Google Assistant.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Assistant.png"
-  },
-  {
-    "name": "Google Cloud.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Cloud.png"
-  },
-  {
-    "name": "Google Drive.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Drive.png"
-  },
-  {
-    "name": "Google Maps.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Maps.png"
-  },
-  {
-    "name": "Google Meet.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Meet.png"
-  },
-  {
-    "name": "Google Photos.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Photos.png"
-  },
-  {
-    "name": "Google Translate.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Translate.png"
-  },
-  {
-    "name": "Google Voice.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Voice.png"
-  },
-  {
-    "name": "Google.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google.png"
-  },
-  {
-    "name": "HK.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/HK.png"
-  },
-  {
-    "name": "HeyTea.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/HeyTea.png"
-  },
-  {
-    "name": "Hijacking.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Hijacking.png"
-  },
-  {
-    "name": "Home Assistant.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Home Assistant.png"
-  },
-  {
-    "name": "Huaerjie News.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Huaerjie News.png"
-  },
-  {
-    "name": "Hulu.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Hulu.png"
-  },
-  {
-    "name": "IT Home.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/IT Home.png"
-  },
-  {
-    "name": "Infuse.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Infuse.png"
-  },
-  {
-    "name": "Initium Media-2.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Initium Media-2.png"
-  },
-  {
-    "name": "Initium Media.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Initium Media.png"
-  },
-  {
-    "name": "Instagram.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Instagram.png"
-  },
-  {
-    "name": "Internet.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Internet.png"
-  },
-  {
-    "name": "JD.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/JD.png"
-  },
-  {
-    "name": "JP.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/JP.png"
-  },
-  {
-    "name": "JiaKao.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/JiaKao.png"
-  },
-  {
-    "name": "Jike.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Jike.png"
-  },
-  {
-    "name": "JilianYun.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/JilianYun.png"
-  },
-  {
-    "name": "KMPlayer.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/KMPlayer.png"
-  },
-  {
-    "name": "KOR.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/KOR.png"
-  },
-  {
-    "name": "Kcyun.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kcyun.png"
-  },
-  {
-    "name": "Ku'An.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Ku'An.png"
-  },
-  {
-    "name": "Kuaidi 100.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kuaidi 100.png"
-  },
-  {
-    "name": "Kuake.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kuake.png"
-  },
-  {
-    "name": "Kugou.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kugou.png"
-  },
-  {
-    "name": "Kuromis.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kuromis.png"
-  },
-  {
-    "name": "Lark.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Lark.png"
-  },
-  {
-    "name": "Lightroom.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Lightroom.png"
-  },
-  {
-    "name": "Line.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Line.png"
-  },
-  {
-    "name": "Link to Windows.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Link to Windows.png"
-  },
-  {
-    "name": "LinkCube.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/LinkCube.png"
-  },
-  {
-    "name": "Locator.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Locator.png"
-  },
-  {
-    "name": "Loon Lite.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Loon Lite.png"
-  },
-  {
-    "name": "Loon.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Loon.png"
-  },
-  {
-    "name": "Luckin Coffee.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Luckin Coffee.png"
-  },
-  {
-    "name": "MAC.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/MAC.png"
-  },
-  {
-    "name": "Media Player X.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Media Player X.png"
-  },
-  {
-    "name": "Meitu.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Meitu.png"
-  },
-  {
-    "name": "Meituan.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Meituan.png"
-  },
-  {
-    "name": "Miaojian.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Miaojian.png"
-  },
-  {
-    "name": "Mixue Ice Cream.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Mixue Ice Cream.png"
-  },
-  {
-    "name": "MoDi.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/MoDi.png"
-  },
-  {
-    "name": "Mubu.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Mubu.png"
-  },
-  {
-    "name": "NSLookup.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/NSLookup.png"
-  },
-  {
-    "name": "NVIDIA.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/NVIDIA.png"
-  },
-  {
-    "name": "NetEase Cloud Music.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/NetEase Cloud Music.png"
-  },
-  {
-    "name": "Netflix-2.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Netflix-2.png"
-  },
-  {
-    "name": "Netflix.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Netflix.png"
-  },
-  {
-    "name": "Nexitally.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Nexitally.png"
-  },
-  {
-    "name": "OKX.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/OKX.png"
-  },
-  {
-    "name": "Obsidian.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Obsidian.png"
-  },
-  {
-    "name": "Oceania.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Oceania.png"
-  },
-  {
-    "name": "OneDrive 2025.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/OneDrive 2025.png"
-  },
-  {
-    "name": "OneDrive.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/OneDrive.png"
-  },
-  {
-    "name": "OneNote 2025.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/OneNote 2025.png"
-  },
-  {
-    "name": "Outlook 2025.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Outlook 2025.png"
-  },
-  {
-    "name": "PDD.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PDD.png"
-  },
-  {
-    "name": "Paramount.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Paramount.png"
-  },
-  {
-    "name": "PayPal.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PayPal.png"
-  },
-  {
-    "name": "Peacock TV.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Peacock TV.png"
-  },
-  {
-    "name": "Photoshop.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Photoshop.png"
-  },
-  {
-    "name": "Picsart.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Picsart.png"
-  },
-  {
-    "name": "PlayStation.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PlayStation.png"
-  },
-  {
-    "name": "Player.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Player.png"
-  },
-  {
-    "name": "PowerPoint 2025.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PowerPoint 2025.png"
-  },
-  {
-    "name": "PowerPoint.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PowerPoint.png"
-  },
-  {
-    "name": "Privacy.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Privacy.png"
-  },
-  {
-    "name": "Procreate.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Procreate.png"
-  },
-  {
-    "name": "QQ.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/QQ.png"
-  },
-  {
-    "name": "QQMusic.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/QQMusic.png"
-  },
-  {
-    "name": "QQRead.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/QQRead.png"
-  },
-  {
-    "name": "Qieting.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Qieting.png"
-  },
-  {
-    "name": "Qishui Music.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Qishui Music.png"
-  },
-  {
-    "name": "Quantumult X.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Quantumult X.png"
-  },
-  {
-    "name": "Rcrd.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Rcrd.png"
-  },
-  {
-    "name": "Reading Tracker.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Reading Tracker.png"
-  },
-  {
-    "name": "Rednote.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Rednote.png"
-  },
-  {
-    "name": "Reflix.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Reflix.png"
-  },
-  {
-    "name": "Route.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Route.png"
-  },
-  {
-    "name": "Rules.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Rules.png"
-  },
-  {
-    "name": "SG.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/SG.png"
-  },
-  {
-    "name": "Safari.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Safari.png"
-  },
-  {
-    "name": "SenPlayer.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/SenPlayer.png"
-  },
-  {
-    "name": "Shadowrocket.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Shadowrocket.png"
-  },
-  {
-    "name": "Shaoshu Pai.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Shaoshu Pai.png"
-  },
-  {
-    "name": "SharePoint 2025.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/SharePoint 2025.png"
-  },
-  {
-    "name": "ShiMo.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/ShiMo.png"
-  },
-  {
-    "name": "Shidian.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Shidian.png"
-  },
-  {
-    "name": "Shuishouji.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Shuishouji.png"
-  },
-  {
-    "name": "Snapseed.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Snapseed.png"
-  },
-  {
-    "name": "Soul.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Soul.png"
-  },
-  {
-    "name": "Speed Test.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Speed Test.png"
-  },
-  {
-    "name": "SpeedTest.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/SpeedTest.png"
-  },
-  {
-    "name": "Spotify.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Spotify.png"
-  },
-  {
-    "name": "Startbucks.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Startbucks.png"
-  },
-  {
-    "name": "Stash.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Stash.png"
-  },
-  {
-    "name": "Steam.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Steam.png"
-  },
-  {
-    "name": "Surge.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Surge.png"
-  },
-  {
-    "name": "Swiftgram.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Swiftgram.png"
-  },
-  {
-    "name": "Symoney.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Symoney.png"
-  },
-  {
-    "name": "TIM.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TIM.png"
-  },
-  {
-    "name": "TMDB.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TMDB.png"
-  },
-  {
-    "name": "TOR.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TOR.png"
-  },
-  {
-    "name": "TaoPP.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TaoPP.png"
-  },
-  {
-    "name": "Taobao.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Taobao.png"
-  },
-  {
-    "name": "Teams 2025.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Teams 2025.png"
-  },
-  {
-    "name": "TeiBa.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TeiBa.png"
-  },
-  {
-    "name": "Telegram-2.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Telegram-2.png"
-  },
-  {
-    "name": "Telegram.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Telegram.png"
-  },
-  {
-    "name": "Tencent Ad.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Tencent Ad.png"
-  },
-  {
-    "name": "Tencent Video.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Tencent Video.png"
-  },
-  {
-    "name": "Three.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Three.png"
-  },
-  {
-    "name": "TickTick.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TickTick.png"
-  },
-  {
-    "name": "TikTok.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TikTok.png"
-  },
-  {
-    "name": "Tongyi.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Tongyi.png"
-  },
-  {
-    "name": "Top Widgets.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Top Widgets.png"
-  },
-  {
-    "name": "Tutu.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Tutu.png"
-  },
-  {
-    "name": "Twitch.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Twitch.png"
-  },
-  {
-    "name": "UK.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/UK.png"
-  },
-  {
-    "name": "USA.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/USA.png"
-  },
-  {
-    "name": "Ulearn Player.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Ulearn Player.png"
-  },
-  {
-    "name": "V2Box.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/V2Box.png"
-  },
-  {
-    "name": "VLC.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/VLC.png"
-  },
-  {
-    "name": "VSCO.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/VSCO.png"
-  },
-  {
-    "name": "VidHub.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/VidHub.png"
-  },
-  {
-    "name": "Video Player.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Video Player.png"
-  },
-  {
-    "name": "Wake Music.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Wake Music.png"
-  },
-  {
-    "name": "WeChat.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/WeChat.png"
-  },
-  {
-    "name": "WeRead.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/WeRead.png"
-  },
-  {
-    "name": "Weibo.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Weibo.png"
-  },
-  {
-    "name": "Weixin Shurufa.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Weixin Shurufa.png"
-  },
-  {
-    "name": "WhatsApp.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/WhatsApp.png"
-  },
-  {
-    "name": "Windows.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Windows.png"
-  },
-  {
-    "name": "Word 2025.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Word 2025.png"
-  },
-  {
-    "name": "Word.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Word.png"
-  },
-  {
-    "name": "X.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/X.png"
-  },
-  {
-    "name": "XPTV.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/XPTV.png"
-  },
-  {
-    "name": "Xbox.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Xbox.png"
-  },
-  {
-    "name": "Xianyu.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Xianyu.png"
-  },
-  {
-    "name": "Xiaoheihe.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Xiaoheihe.png"
-  },
-  {
-    "name": "XiaoyuzhouFM.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/XiaoyuzhouFM.png"
-  },
-  {
-    "name": "XimalayFM.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/XimalayFM.png"
-  },
-  {
-    "name": "Xlist.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Xlist.png"
-  },
-  {
-    "name": "Yiyue.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Yiyue.png"
-  },
-  {
-    "name": "YouTube Music.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/YouTube Music.png"
-  },
-  {
-    "name": "YouTube.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/YouTube.png"
-  },
-  {
-    "name": "Youku.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Youku.png"
-  },
-  {
-    "name": "Ytoo.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Ytoo.png"
-  },
-  {
-    "name": "Zhihu.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Zhihu.png"
-  },
-  {
-    "name": "ZhishiXQ.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/ZhishiXQ.png"
-  },
-  {
-    "name": "eBay.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/eBay.png"
-  },
-  {
-    "name": "iCloud.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/iCloud.png"
-  },
-  {
-    "name": "iCost.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/iCost.png"
-  },
-  {
-    "name": "iQIYI.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/iQIYI.png"
-  },
-  {
-    "name": "uBlock Origin Lite.png",
-    "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/uBlock Origin Lite.png"
-  }
-]
+{
+  "name": "自用图标资源库",
+  "description": "Auto-updated on 2026-02-07",
+  "icons": [
+    {
+      "name": "1.1.1.1",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/1.1.1.1.png"
+    },
+    {
+      "name": "115",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/115.png"
+    },
+    {
+      "name": "123 Cloud",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/123 Cloud.png"
+    },
+    {
+      "name": "12306",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/12306.png"
+    },
+    {
+      "name": "36Kr",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/36Kr.png"
+    },
+    {
+      "name": "AMap",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/AMap.png"
+    },
+    {
+      "name": "AUS",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/AUS.png"
+    },
+    {
+      "name": "Ad Blocker",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Ad Blocker.png"
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/AdGuard.png"
+    },
+    {
+      "name": "Adblock",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Adblock.png"
+    },
+    {
+      "name": "Africa",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Africa.png"
+    },
+    {
+      "name": "AirDroid",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/AirDroid.png"
+    },
+    {
+      "name": "Alipay",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Alipay.png"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Amazon Prime Video.png"
+    },
+    {
+      "name": "Americas",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Americas.png"
+    },
+    {
+      "name": "App Store",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/App Store.png"
+    },
+    {
+      "name": "Apple Developer",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple Developer.png"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple Music.png"
+    },
+    {
+      "name": "Apple Wallet",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple Wallet.png"
+    },
+    {
+      "name": "Apple-2",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple-2.png"
+    },
+    {
+      "name": "Apple-3",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple-3.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Apple.png"
+    },
+    {
+      "name": "Asia",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Asia.png"
+    },
+    {
+      "name": "BD Map",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/BD Map.png"
+    },
+    {
+      "name": "BUS",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/BUS.png"
+    },
+    {
+      "name": "Baidu",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Baidu.png"
+    },
+    {
+      "name": "Baiduyunpan",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Baiduyunpan.png"
+    },
+    {
+      "name": "Baomihua",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Baomihua.png"
+    },
+    {
+      "name": "Bcut",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bcut.png"
+    },
+    {
+      "name": "BiliBili-2",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/BiliBili-2.png"
+    },
+    {
+      "name": "BiliBili",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/BiliBili.png"
+    },
+    {
+      "name": "Bing",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bing.png"
+    },
+    {
+      "name": "Bitcoin",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bitcoin.png"
+    },
+    {
+      "name": "Bitqiu",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bitqiu.png"
+    },
+    {
+      "name": "Bodian Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bodian Music.png"
+    },
+    {
+      "name": "Books-2",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Books-2.png"
+    },
+    {
+      "name": "Books",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Books.png"
+    },
+    {
+      "name": "Brave",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Brave.png"
+    },
+    {
+      "name": "Bus",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bus.png"
+    },
+    {
+      "name": "Bybit",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Bybit.png"
+    },
+    {
+      "name": "CHN",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/CHN.png"
+    },
+    {
+      "name": "CaiXin",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/CaiXin.png"
+    },
+    {
+      "name": "Cainiao",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Cainiao.png"
+    },
+    {
+      "name": "Canva",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Canva.png"
+    },
+    {
+      "name": "CapCut",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/CapCut.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/ChatGPT.png"
+    },
+    {
+      "name": "Chatbot",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Chatbot.png"
+    },
+    {
+      "name": "Chrome",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Chrome.png"
+    },
+    {
+      "name": "Conflux",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Conflux.png"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Copilot.png"
+    },
+    {
+      "name": "Cotti Coffee",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Cotti Coffee.png"
+    },
+    {
+      "name": "Craft",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Craft.png"
+    },
+    {
+      "name": "DJI",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DJI.png"
+    },
+    {
+      "name": "DNS Inspector",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DNS Inspector.png"
+    },
+    {
+      "name": "DSLR Camera",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DSLR Camera.png"
+    },
+    {
+      "name": "DaZhong",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DaZhong.png"
+    },
+    {
+      "name": "DanNan",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DanNan.png"
+    },
+    {
+      "name": "DiDi",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DiDi.png"
+    },
+    {
+      "name": "DingDing",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/DingDing.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Discord.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Disney+.png"
+    },
+    {
+      "name": "Douban",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Douban.png"
+    },
+    {
+      "name": "Dropbox ",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Dropbox .png"
+    },
+    {
+      "name": "EU",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/EU.png"
+    },
+    {
+      "name": "Edge",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Edge.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Emby.png"
+    },
+    {
+      "name": "Europe",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Europe.png"
+    },
+    {
+      "name": "Excel 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Excel 2025.png"
+    },
+    {
+      "name": "Excel",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Excel.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Facebook.png"
+    },
+    {
+      "name": "Fanqie",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Fanqie.png"
+    },
+    {
+      "name": "Fengcao",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Fengcao.png"
+    },
+    {
+      "name": "Filebar",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Filebar.png"
+    },
+    {
+      "name": "Firefox",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Firefox.png"
+    },
+    {
+      "name": "FnOS",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/FnOS.png"
+    },
+    {
+      "name": "Game Controller",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Game Controller.png"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Gemini.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/GitHub.png"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Gmail.png"
+    },
+    {
+      "name": "Goodnotes",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Goodnotes.png"
+    },
+    {
+      "name": "Google Ads",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Ads.png"
+    },
+    {
+      "name": "Google Assistant",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Assistant.png"
+    },
+    {
+      "name": "Google Cloud",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Cloud.png"
+    },
+    {
+      "name": "Google Drive",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Drive.png"
+    },
+    {
+      "name": "Google Maps",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Maps.png"
+    },
+    {
+      "name": "Google Meet",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Meet.png"
+    },
+    {
+      "name": "Google Photos",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Photos.png"
+    },
+    {
+      "name": "Google Translate",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Translate.png"
+    },
+    {
+      "name": "Google Voice",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google Voice.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Google.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/HK.png"
+    },
+    {
+      "name": "HeyTea",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/HeyTea.png"
+    },
+    {
+      "name": "Hijacking",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Hijacking.png"
+    },
+    {
+      "name": "Home Assistant",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Home Assistant.png"
+    },
+    {
+      "name": "Huaerjie News",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Huaerjie News.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Hulu.png"
+    },
+    {
+      "name": "IT Home",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/IT Home.png"
+    },
+    {
+      "name": "Infuse",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Infuse.png"
+    },
+    {
+      "name": "Initium Media-2",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Initium Media-2.png"
+    },
+    {
+      "name": "Initium Media",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Initium Media.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Instagram.png"
+    },
+    {
+      "name": "Internet",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Internet.png"
+    },
+    {
+      "name": "JD",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/JD.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/JP.png"
+    },
+    {
+      "name": "JiaKao",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/JiaKao.png"
+    },
+    {
+      "name": "Jike",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Jike.png"
+    },
+    {
+      "name": "JilianYun",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/JilianYun.png"
+    },
+    {
+      "name": "KMPlayer",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/KMPlayer.png"
+    },
+    {
+      "name": "KOR",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/KOR.png"
+    },
+    {
+      "name": "Kcyun",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kcyun.png"
+    },
+    {
+      "name": "Ku'An",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Ku'An.png"
+    },
+    {
+      "name": "Kuaidi 100",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kuaidi 100.png"
+    },
+    {
+      "name": "Kuake",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kuake.png"
+    },
+    {
+      "name": "Kugou",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kugou.png"
+    },
+    {
+      "name": "Kuromis",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kuromis.png"
+    },
+    {
+      "name": "Lark",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Lark.png"
+    },
+    {
+      "name": "Lightroom",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Lightroom.png"
+    },
+    {
+      "name": "Line",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Line.png"
+    },
+    {
+      "name": "Link to Windows",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Link to Windows.png"
+    },
+    {
+      "name": "LinkCube",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/LinkCube.png"
+    },
+    {
+      "name": "Locator",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Locator.png"
+    },
+    {
+      "name": "Loon Lite",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Loon Lite.png"
+    },
+    {
+      "name": "Loon",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Loon.png"
+    },
+    {
+      "name": "Luckin Coffee",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Luckin Coffee.png"
+    },
+    {
+      "name": "MAC",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/MAC.png"
+    },
+    {
+      "name": "Media Player X",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Media Player X.png"
+    },
+    {
+      "name": "Meitu",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Meitu.png"
+    },
+    {
+      "name": "Meituan",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Meituan.png"
+    },
+    {
+      "name": "Miaojian",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Miaojian.png"
+    },
+    {
+      "name": "Mixue Ice Cream",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Mixue Ice Cream.png"
+    },
+    {
+      "name": "MoDi",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/MoDi.png"
+    },
+    {
+      "name": "Mubu",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Mubu.png"
+    },
+    {
+      "name": "NSLookup",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/NSLookup.png"
+    },
+    {
+      "name": "NVIDIA",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/NVIDIA.png"
+    },
+    {
+      "name": "NetEase Cloud Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/NetEase Cloud Music.png"
+    },
+    {
+      "name": "Netflix-2",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Netflix-2.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Netflix.png"
+    },
+    {
+      "name": "Nexitally",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Nexitally.png"
+    },
+    {
+      "name": "OKX",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/OKX.png"
+    },
+    {
+      "name": "Obsidian",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Obsidian.png"
+    },
+    {
+      "name": "Oceania",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Oceania.png"
+    },
+    {
+      "name": "OneDrive 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/OneDrive 2025.png"
+    },
+    {
+      "name": "OneDrive",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/OneDrive.png"
+    },
+    {
+      "name": "OneNote 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/OneNote 2025.png"
+    },
+    {
+      "name": "Outlook 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Outlook 2025.png"
+    },
+    {
+      "name": "PDD",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PDD.png"
+    },
+    {
+      "name": "Paramount",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Paramount.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PayPal.png"
+    },
+    {
+      "name": "Peacock TV",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Peacock TV.png"
+    },
+    {
+      "name": "Photoshop",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Photoshop.png"
+    },
+    {
+      "name": "Picsart",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Picsart.png"
+    },
+    {
+      "name": "PlayStation",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PlayStation.png"
+    },
+    {
+      "name": "Player",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Player.png"
+    },
+    {
+      "name": "PowerPoint 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PowerPoint 2025.png"
+    },
+    {
+      "name": "PowerPoint",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/PowerPoint.png"
+    },
+    {
+      "name": "Privacy",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Privacy.png"
+    },
+    {
+      "name": "Procreate",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Procreate.png"
+    },
+    {
+      "name": "QQ",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/QQ.png"
+    },
+    {
+      "name": "QQMusic",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/QQMusic.png"
+    },
+    {
+      "name": "QQRead",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/QQRead.png"
+    },
+    {
+      "name": "Qieting",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Qieting.png"
+    },
+    {
+      "name": "Qishui Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Qishui Music.png"
+    },
+    {
+      "name": "Quantumult X",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Quantumult X.png"
+    },
+    {
+      "name": "Rcrd",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Rcrd.png"
+    },
+    {
+      "name": "Reading Tracker",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Reading Tracker.png"
+    },
+    {
+      "name": "Rednote",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Rednote.png"
+    },
+    {
+      "name": "Reflix",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Reflix.png"
+    },
+    {
+      "name": "Route",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Route.png"
+    },
+    {
+      "name": "Rules",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Rules.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/SG.png"
+    },
+    {
+      "name": "Safari",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Safari.png"
+    },
+    {
+      "name": "SenPlayer",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/SenPlayer.png"
+    },
+    {
+      "name": "Shadowrocket",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Shadowrocket.png"
+    },
+    {
+      "name": "Shaoshu Pai",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Shaoshu Pai.png"
+    },
+    {
+      "name": "SharePoint 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/SharePoint 2025.png"
+    },
+    {
+      "name": "ShiMo",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/ShiMo.png"
+    },
+    {
+      "name": "Shidian",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Shidian.png"
+    },
+    {
+      "name": "Shuishouji",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Shuishouji.png"
+    },
+    {
+      "name": "Snapseed",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Snapseed.png"
+    },
+    {
+      "name": "Soul",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Soul.png"
+    },
+    {
+      "name": "Speed Test",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Speed Test.png"
+    },
+    {
+      "name": "SpeedTest",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/SpeedTest.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Spotify.png"
+    },
+    {
+      "name": "Startbucks",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Startbucks.png"
+    },
+    {
+      "name": "Stash",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Stash.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Steam.png"
+    },
+    {
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Surge.png"
+    },
+    {
+      "name": "Swiftgram",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Swiftgram.png"
+    },
+    {
+      "name": "Symoney",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Symoney.png"
+    },
+    {
+      "name": "TIM",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TIM.png"
+    },
+    {
+      "name": "TMDB",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TMDB.png"
+    },
+    {
+      "name": "TOR",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TOR.png"
+    },
+    {
+      "name": "TaoPP",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TaoPP.png"
+    },
+    {
+      "name": "Taobao",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Taobao.png"
+    },
+    {
+      "name": "Teams 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Teams 2025.png"
+    },
+    {
+      "name": "TeiBa",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TeiBa.png"
+    },
+    {
+      "name": "Telegram-2",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Telegram-2.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Telegram.png"
+    },
+    {
+      "name": "Tencent Ad",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Tencent Ad.png"
+    },
+    {
+      "name": "Tencent Video",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Tencent Video.png"
+    },
+    {
+      "name": "Three",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Three.png"
+    },
+    {
+      "name": "TickTick",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TickTick.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/TikTok.png"
+    },
+    {
+      "name": "Tongyi",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Tongyi.png"
+    },
+    {
+      "name": "Top Widgets",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Top Widgets.png"
+    },
+    {
+      "name": "Tutu",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Tutu.png"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Twitch.png"
+    },
+    {
+      "name": "UK",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/UK.png"
+    },
+    {
+      "name": "USA",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/USA.png"
+    },
+    {
+      "name": "Ulearn Player",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Ulearn Player.png"
+    },
+    {
+      "name": "V2Box",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/V2Box.png"
+    },
+    {
+      "name": "VLC",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/VLC.png"
+    },
+    {
+      "name": "VSCO",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/VSCO.png"
+    },
+    {
+      "name": "VidHub",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/VidHub.png"
+    },
+    {
+      "name": "Video Player",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Video Player.png"
+    },
+    {
+      "name": "Wake Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Wake Music.png"
+    },
+    {
+      "name": "WeChat",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/WeChat.png"
+    },
+    {
+      "name": "WeRead",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/WeRead.png"
+    },
+    {
+      "name": "Weibo",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Weibo.png"
+    },
+    {
+      "name": "Weixin Shurufa",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Weixin Shurufa.png"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/WhatsApp.png"
+    },
+    {
+      "name": "Windows",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Windows.png"
+    },
+    {
+      "name": "Word 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Word 2025.png"
+    },
+    {
+      "name": "Word",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Word.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/X.png"
+    },
+    {
+      "name": "XPTV",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/XPTV.png"
+    },
+    {
+      "name": "Xbox",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Xbox.png"
+    },
+    {
+      "name": "Xianyu",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Xianyu.png"
+    },
+    {
+      "name": "Xiaoheihe",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Xiaoheihe.png"
+    },
+    {
+      "name": "XiaoyuzhouFM",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/XiaoyuzhouFM.png"
+    },
+    {
+      "name": "XimalayFM",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/XimalayFM.png"
+    },
+    {
+      "name": "Xlist",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Xlist.png"
+    },
+    {
+      "name": "Yiyue",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Yiyue.png"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/YouTube Music.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/YouTube.png"
+    },
+    {
+      "name": "Youku",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Youku.png"
+    },
+    {
+      "name": "Ytoo",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Ytoo.png"
+    },
+    {
+      "name": "Zhihu",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Zhihu.png"
+    },
+    {
+      "name": "ZhishiXQ",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/ZhishiXQ.png"
+    },
+    {
+      "name": "eBay",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/eBay.png"
+    },
+    {
+      "name": "iCloud",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/iCloud.png"
+    },
+    {
+      "name": "iCost",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/iCost.png"
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/iQIYI.png"
+    },
+    {
+      "name": "uBlock Origin Lite",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/uBlock Origin Lite.png"
+    }
+  ]
+}
