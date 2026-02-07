@@ -1,7 +1,6 @@
 name: Update icon JSON
 
-于:
-  push:
+push:
     paths:
       - 'icon/**'
   workflow_dispatch:
