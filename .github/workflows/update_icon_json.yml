@@ -1,6 +1,7 @@
 name: Update icon JSON
 
-push:
+on:
+  push:
     paths:
       - 'icon/**'
   workflow_dispatch:
@@ -18,28 +19,26 @@ jobs:
       with:
         node-version: '16'
 
+    - name: Install dependencies
+      run: npm install fs path
+
     - name: Generate JSON file
       run: |
         node << 'EOF'
         const fs = require('fs');
         const path = require('path');
-        const iconDir = path.join(process.cwd(), 'icon');
-        const files = fs.readdirSync(iconDir).filter(file => file.endsWith('.png'));
+        const iconDir = path.join(__dirname, '../../icon');
+        const files = fs.readdirSync(iconDir).filter(file => file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.jpeg') || file.endsWith('.svg'));
 
-        const icons = files.map(file => {
+        const iconData = files.map(file => {
           return {
             name: file,
             url: `https://raw.githubusercontent.com/Keviin560/LOON/main/icon/${file}`
           };
         });
 
-        const iconSet = {
-          name: "Loon Icons",  // 这里你可以写 "Loon Icons" 或其他你喜欢的名称
-          icons: icons
-        };
-
-        const jsonPath = path.join(process.cwd(), 'icon.json');
-        fs.writeFileSync(jsonPath, JSON.stringify(iconSet, null, 2));
+        const jsonPath = path.join(__dirname, '../../icon.json');
+        fs.writeFileSync(jsonPath, JSON.stringify(iconData, null, 2));
         EOF
 
     - name: Commit JSON file
@@ -49,5 +48,3 @@ jobs:
         git add icon.json
         git commit -m "Update icon JSON"
         git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
