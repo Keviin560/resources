@@ -1,6 +1,6 @@
 {
   "name": "自用图标资源库",
-  "description": "Auto-updated on 2026-02-07",
+  "description": "Auto-updated on 2026-02-15",
   "icons": [
     {
       "name": "1.1.1.1",
@@ -789,6 +789,10 @@
     {
       "name": "Telegram-2",
       "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Telegram-2.png"
+    },
+    {
+      "name": "Telegram-3",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Telegram-3.png"
     },
     {
       "name": "Telegram",
