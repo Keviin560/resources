@@ -1,6 +1,6 @@
 {
   "name": "自用图标资源库",
-  "description": "Auto-updated on 2026-02-17",
+  "description": "Auto-updated on 2026-02-22",
   "icons": [
     {
       "name": "1.1.1.1",
@@ -441,6 +441,10 @@
     {
       "name": "Kcyun",
       "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Kcyun.png"
+    },
+    {
+      "name": "Keep",
+      "url": "https://raw.githubusercontent.com/Keviin560/resources/main/icon/Keep.png"
     },
     {
       "name": "Ku'An",
